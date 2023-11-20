@@ -68,7 +68,7 @@ def reset():
 
 # Create Box design
 # Lable means screen ke ander text likhne ke liye
-Label(screen,text="Enter the encription and decription text ", font="Arial 12 bold").place(x=60,y=5)
+Label(screen,text="Enter the encryption and decryption text ", font="Arial 12 bold").place(x=60,y=5)
 
 #Text means write a text
 box = Text(screen, bd=4, font="Arial 12 bold")
