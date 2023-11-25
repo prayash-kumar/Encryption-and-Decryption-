@@ -1,5 +1,3 @@
-![Screenshot (8)](https://github.com/prayash-kumar/Encryption-and-Decryption-/assets/147251894/a1b7c8e
-
 # Encryption-and-Decryption-
 GUI Encryption and Decryption
 Encryption and decryption are fundamental concepts in the field of cryptography and information security. They are techniques used to protect sensitive information from unauthorized access by converting it into a different format that can only be read or understood by individuals who have the appropriate key.
