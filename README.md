@@ -10,13 +10,10 @@ Encryption and decryption are fundamental concepts in the field of cryptography 
 .Required Python libraries, including Tkinter,base64,messagebox
 # Installation
 1. Install the required Python libraries:
-2. Run the application:
-# Acknowledgments
-.Special thanks to the open-source community for providing valuable libraries and resources for Python GUI development.
-Credit to [Prayash Kumar] for creating and maintaining this GUI Alarm Clock.
+2. pip install (libraries name)
+3. Run the application:
 # Support
 .If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's GitHub repository.
-
 # Contributors
 [Prayash Kumar Pandey] - Project Lead
 # Contact
